@@ -5,7 +5,7 @@
 
 # 自己紹介
 こんにちは。Start-Pです！  
-私は日本の中学生で、普段はPython, HTML, CSSを使って、
+私は日本の中学生で、普段はPython, HTML, CSSを使って、  
 DiscordBOTなどの様々な便利ツールを作っています！  
 最近はFlask, Django, FastAPIなどのフレームワークを使ったサイト制作に取り組んでいます！  
 ぜひ仲良くしましょう！  
